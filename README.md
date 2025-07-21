@@ -10,7 +10,7 @@ Experienced Machine Learning professional with a proven track record in developi
 
 <br> ✦︎ [E-MAIL]: [yaroslav.sergaev@gmail.com](mailto:yaroslav.sergaev@gmail.com)
 <br> ✦︎ [GITHUB]: [adelardw](https://github.com/adelardw)
-<br> ✦︎ [CODE STATUS 200]: [adelardw.github.io](https://adelardw.github.io)
+<br> ✦︎ [CODE STATUS 200]: [?](https://adelardw.github.io/cv/)
 
 ---
 
