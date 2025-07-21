@@ -97,7 +97,7 @@ Experienced Machine Learning professional with a proven track record in developi
 
 ---
 
-### `>>> EDUCATION_MODULE <<<`
+### `>>> EDUCATION <<<`
 
 <p>
 <img src="https://img.shields.io/badge/HSE_University-6200EE?style=for-the-badge&logoColor=white" alt="HSE University">
