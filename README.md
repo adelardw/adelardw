@@ -98,6 +98,10 @@ Experienced Machine Learning professional with a proven track record in developi
 ---
 
 ### `>>> EDUCATION <<<`
+<p>
+<img src="https://img.shields.io/badge/ISP-RAS-03DAC6?style=for-the-badge&logoColor=white" alt="The Institute of System Programming of the Russian Academy of Sciences">
+<img src="https://img.shields.io/badge/Candidate of Sciences_(2025 – 2028)-018786?style=for-the-badge" alt="Candidate of Computer Sciences (PROBABLY!)">
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/HSE_University-6200EE?style=for-the-badge&logoColor=white" alt="HSE University">
