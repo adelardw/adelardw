@@ -114,19 +114,11 @@ Experienced Machine Learning professional with a proven track record in developi
 ### `>>> PET PROJECTS <<<`
 
 <p>
-<img src="https://img.shields.io/badge/WhisperBERT-End--to--end_NER_in_audio_with_embedding_alignment-2196F3?style=for-the-badge" alt="End-to-end NER in audio with embedding alignment">
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Tgbot_voice_assistant-8BC34A?style=for-the-badge" alt="Voice assistant with tool calling and structured outputs">
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Tgbot_News_Copyrighter-8BC35A?style=for-the-badge" alt="Tgbot what copyright tg posts from different channels and repost result to selected chanel">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Brain_Tumor_Segmentation-Implementation_of_UNET_model-FFD600?style=for-the-badge" alt="Implementation of UNET model">
+<img src="https://img.shields.io/badge/Tgbot_news_copyrighter-8BC35A?style=for-the-badge" alt="Tgbot what copyright tg posts from different channels and repost result to selected chanel">
 </p>
 
 <p>
