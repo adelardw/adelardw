@@ -118,7 +118,11 @@ Experienced Machine Learning professional with a proven track record in developi
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Voice_Assistant-Calendar_voice_assistant_using_Ollama_and_LangChain-8BC34A?style=for-the-badge" alt="Calendar voice assistant using Ollama and LangChain">
+<img src="https://img.shields.io/badge/Tgbot_voice_assistant-8BC34A?style=for-the-badge" alt="Voice assistant with tool calling and structured outputs">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Tgbot_News_Copyrighter-8BC35A?style=for-the-badge" alt="Tgbot what copyright tg posts from different channels and repost result to selected chanel">
 </p>
 
 <p>
