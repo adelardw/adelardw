@@ -118,7 +118,7 @@ Experienced Machine Learning professional with a proven track record in developi
 ### `>>> PET PROJECTS <<<`
 
 <p>
-<img src="https://img.shields.io/badge/Tgbot_voice_assistant-8BC34A?style=for-the-badge" alt="Voice assistant with tool calling and structured outputs">
+<img src="https://img.shields.io/badge/Tg_voice_assistant_bot-8BC34A?style=for-the-badge" alt="Voice assistant with tool calling and structured outputs">
 </p>
 
 <p>
@@ -130,5 +130,5 @@ Experienced Machine Learning professional with a proven track record in developi
 </p>
 
 <p align="center">
-  &copy; 2025 Yaroslav Sergaev. All rights reserved.
+  &copy; 2025 YS. All rights reserved.
 </p>
