@@ -122,7 +122,7 @@ Experienced Machine Learning professional with a proven track record in developi
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Tgbot_news_copyrighter-8BC34A?style=for-the-badge" alt="Tgbot what copyright tg posts from different channels and repost result to selected chanel">
+<img src="https://img.shields.io/badge/Tgbot_news_copyrighter-03DAC6?style=for-the-badge" alt="Copyrigher News Bot">
 </p>
 
 <p>
