@@ -128,7 +128,3 @@ Experienced Machine Learning professional with a proven track record in developi
 <p>
 <img src="https://img.shields.io/badge/Audio_Denoising-UNET--based_audio_noise_suppression-CE93D8?style=for-the-badge" alt="UNET-based audio noise suppression">
 </p>
-
-<p align="center">
-  &copy; 2025 YS. All rights reserved.
-</p>
