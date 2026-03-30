@@ -1,6 +1,6 @@
 <h1 align="center">Yaroslav Sergaev</h1>
 <p align="center">
-<strong>AI Engineer</strong> · LLM Systems · Agents · Multimodal · Production ML
+<strong>AI Engineer</strong> · LLM Systems · Agents · Multimodal · Production ML · NLP · CV · AUDIO
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@ PhD student at **ISP RAS** (AI & Multimodal Models) · MSc ML — **HSE Universi
 | Company | Role | Key Impact |
 |---------|------|------------|
 | **Sber Business Soft** | Senior AI Engineer | ~963 WAU AI product, multi-agent architecture, <30s latency |
-| **MTS Exolve** | ML Engineer | 4× LLM inference speedup (1→4 RPS), ~$50K/mo savings |
-| **YADRO** | ML Engineer | Production OCR pipeline, ONNX/TFLite optimization |
+| **MTS Exolve** | Middle ML Engineer | 4× LLM inference speedup (1→4 RPS), ~$50K/mo savings |
+| **YADRO** | Middle Data Scientist | Production OCR pipeline, ONNX/TFLite optimization |
 
 ---
 
