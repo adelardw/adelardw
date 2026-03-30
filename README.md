@@ -30,8 +30,8 @@ Experienced Machine Learning professional with a proven track record in developi
   <br> ✦︎ Fine-tuned ASR model (Whisper) using various methods, including contrastive learning, resulting in savings of up to 5 million rubles per month.
   <br> ✦︎ Performed dialogue clustering for analysis and improvement of customer service.
 
-#### ⚙️ **YADRO** `[ML ENGINEER]`
-* **PERIOD**: January 2024 – August 2024
+#### ⚙️ **YADRO** `[MIDDLE ML ENGINEER]`
+* **PERIOD**: January 2023 – August 2024
   <br> ✦︎ Participated in data annotation and Python script writing for training dataset preparation.
   <br> ✦︎ Performed validation and fine-tuning of SOTA models for OCR, text detection, classification, and img2text tasks.
   <br> ✦︎ Optimized models for production, including conversion to ONNX and TFLite, fusing layers, and using Triton via DeepSpeed.
