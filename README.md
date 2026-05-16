@@ -27,7 +27,7 @@ PhD student at **ISP RAS** (AI & Multimodal Models) · MSc ML — **HSE Universi
 | Company | Role | Key Impact |
 |---------|------|------------|
 | **Sber Business Soft** | Senior AI Engineer | ~963 WAU AI product, multi-agent architecture, <30s latency |
-| **MTS Exolve** | Middle ML Engineer | 4× LLM inference speedup (1→4 RPS), ~$50K/mo savings |
+| **MTS Exolve** | Senior ML Engineer | 4× LLM inference speedup (1→4 RPS), ~$5M MK/mo savings |
 | **YADRO** | Middle Data Scientist | Production OCR pipeline, 2D Barcodes Detection, ONNX/TFLite optimization |
 
 ---
@@ -36,7 +36,7 @@ PhD student at **ISP RAS** (AI & Multimodal Models) · MSc ML — **HSE Universi
 
 **[MER — Multimodal Deepfake Detection](https://github.com/adelardw/detectors-mer)**  
 Dual-branch architecture: FAU features (Swin-T + GNN) × rPPG signals (PhysNet) → Q-Former fusion.  
-0.9342 accuracy / 0.9999 AUROC on CelebDF. Cross-dataset generalization study on FF++ & CelebDF.
+Cross-dataset generalization study on FF++ & CelebDF.
 
 **[Self-Extension Agent](https://github.com/adelardw/SelfExtensionAgent)**  
 LangGraph agent that autonomously creates, validates, and reuses its own tools at runtime.
@@ -50,7 +50,6 @@ LangGraph agent that autonomously creates, validates, and reuses its own tools a
 | [TG-VLM-Agent](https://github.com/adelardw/TG-VLM-Agent) | Telegram bot — VLM + memory + tool calling |
 | [LLMNewsRewriter](https://github.com/adelardw/LLMNewsRewriter) | Content generation + CLIP image retrieval |
 | [MobileClipClassifier](https://github.com/adelardw/MobileClipClassifier-0-shot) | Zero-shot tagging — CLIP on TFLite |
-| [SRGAN](https://github.com/adelardw/SRGAN) | Super-resolution GAN |
 | [AudioDenoisingNet](https://github.com/adelardw/AudioDenoisingNet) | UNet audio denoising |
 
 ---
