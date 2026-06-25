@@ -41,6 +41,10 @@ Cross-dataset generalization study on FF++ & CelebDF.
 **[Self-Extension Agent](https://github.com/adelardw/SelfExtensionAgent)**  
 LangGraph agent that autonomously creates, validates, and reuses its own tools at runtime.
 
+**[AudioDenoisingNet — DNN Speech Enhancement (MSc Thesis)](https://github.com/adelardw/AudioDenoisingNet)**  
+Lightweight (<2M params) U-Net denoiser operating on STFT magnitude with a dedicated phase-reconstruction head and a composite loss (L1/L2, Spectral Convergence, Phase Sensitive, Group Delay, STFT).  
+Fastest GPU inference vs. DCCRN / MP-SEUnet / TF-Locoformer (0.0047s); SI-SDR 7.65 dB / STOI 0.90 on LibriSpeech+WHAM!. MSc thesis, HSE University.
+
 ---
 
 ### Projects
@@ -49,7 +53,7 @@ LangGraph agent that autonomously creates, validates, and reuses its own tools a
 |---------|-------------|
 | [TG-VLM-Agent](https://github.com/adelardw/TG-VLM-Agent) | Telegram bot — VLM + memory + tool calling |
 | [MobileClipClassifier](https://github.com/adelardw/MobileClipClassifier-0-shot) | Zero-shot tagging — CLIP on TFLite |
-| [AudioDenoisingNet](https://github.com/adelardw/AudioDenoisingNet) | UNet audio denoising |
+| [AudioDenoisingNet](https://github.com/adelardw/AudioDenoisingNet) | UNet audio denoising — MSc thesis project |
 
 ---
 
