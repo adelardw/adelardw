@@ -48,7 +48,6 @@ LangGraph agent that autonomously creates, validates, and reuses its own tools a
 | Project | Description |
 |---------|-------------|
 | [TG-VLM-Agent](https://github.com/adelardw/TG-VLM-Agent) | Telegram bot — VLM + memory + tool calling |
-| [LLMNewsRewriter](https://github.com/adelardw/LLMNewsRewriter) | Content generation + CLIP image retrieval |
 | [MobileClipClassifier](https://github.com/adelardw/MobileClipClassifier-0-shot) | Zero-shot tagging — CLIP on TFLite |
 | [AudioDenoisingNet](https://github.com/adelardw/AudioDenoisingNet) | UNet audio denoising |
 
