@@ -28,7 +28,7 @@ PhD student at **ISP RAS** (AI & Multimodal Models) · MSc ML — **HSE Universi
 |---------|------|------------|
 | **Sber Business Soft** | Senior AI Engineer | ~963 WAU AI product, multi-agent architecture, <30s latency |
 | **MTS Exolve** | Senior ML Engineer | 4× LLM inference speedup (1→4 RPS); Trained ASR for  audio call transcribation (Replaced external ASR vendor with in-house Whisper deployment)
-| **YADRO** | Middle Data Scientist | Production OCR pipeline, 2D Barcodes Detection, ONNX/TFLite optimization |
+| **YADRO** | Middle Data Scientist |  TextDet pipelines, 2D Barcodes Detection, ONNX/TFLite optimization |
 
 ---
 
