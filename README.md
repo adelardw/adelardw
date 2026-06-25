@@ -34,7 +34,7 @@ PhD student at **ISP RAS** (AI & Multimodal Models) · MSc ML — **HSE Universi
 
 ### Research
 
-**[MER — Multimodal Deepfake Detection](https://github.com/adelardw/detectors-mer)**  
+**[mdfr-rppgfau — Multimodal Deepfake Recognition using RPPG and FAU features ](https://github.com/adelardw/mdfr-rppgfau)**  
 Dual-branch architecture: FAU features (Swin-T + GNN) × rPPG signals (PhysNet) → Q-Former fusion.  
 Cross-dataset generalization study on FF++ & CelebDF.
 
