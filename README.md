@@ -1,6 +1,6 @@
 <h1 align="center">Yaroslav Sergaev</h1>
 <p align="center">
-<strong>AI Engineer</strong> · LLM Systems · Agents · Multimodal · Production ML · NLP · CV · AUDIO
+<strong>AI / ML / DL Engineer</strong> · LLM Systems · Agents · Multimodal · NLP · CV · AUDIO
 </p>
 
 <p align="center">
