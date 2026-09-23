@@ -12,8 +12,8 @@
 
 ### About
 
-AI Engineer building production LLM systems, autonomous agents, and multimodal pipelines.  
-I focus on shipping reliable AI products with measurable business impact — from architecture through deployment.
+ML Research engineer building LLM systems, autonomous agents, and multimodal pipelines.  
+I focus on shipping reliable ML / DL products with measurable impact — from architecture through deployment.
 
 Currently at **Sber Business Soft** — production AI assistants, multi-agent systems, RAG.  
 Previously at **MTS Exolve** (LLM optimization, 4× throughput) and **YADRO** (CV, OCR, edge deployment).
@@ -26,9 +26,9 @@ PhD student at **ISP RAS** (AI & Multimodal Models) · MSc ML — **HSE Universi
 
 | Company | Role | Key Impact |
 |---------|------|------------|
-| **Sber Business Soft** | Senior AI Engineer | ~963 WAU AI product, multi-agent architecture, <30s latency |
-| **MTS Exolve** | Senior ML Engineer | 4× LLM inference speedup (1→4 RPS); Trained Whisper for phone call transcription (Replaced external ASR vendor with in-house Whisper deployment) |
-| **YADRO** | Middle Data Scientist |  TextDet pipelines, 2D Barcodes Detection, ONNX/TFLite optimization |
+| **Sber Business Soft** | ML Engineer | ~3000 WAU AI product, multi-agent architecture, <30s latency |
+| **MTS Exolve** | ML Engineer | 4× LLM inference speedup (1→4 RPS); Trained Whisper for phone call transcription (Replaced external ASR vendor with in-house Whisper deployment) |
+| **YADRO** | ML Enginner |  TextDet pipelines, 2D Barcodes Detection, ONNX/TFLite optimization |
 
 ---
 
@@ -51,7 +51,7 @@ Fastest GPU inference vs. DCCRN / MP-SEUnet / TF-Locoformer (0.0047s); SI-SDR 7.
 
 | Project | Description |
 |---------|-------------|
-| [TG-VLM-Agent](https://github.com/adelardw/TG-VLM-Agent) | Telegram bot — VLM + memory + tool calling |
+| [FlowDraft](https://github.com/adelardw/FlowDraft) | SSPP2026 (Smiles Summer Machine Learning School) work about diffusion speculative decoding |
 | [MobileClipClassifier](https://github.com/adelardw/MobileClipClassifier-0-shot) | Zero-shot tagging — CLIP on TFLite |
 | [AudioDenoisingNet](https://github.com/adelardw/AudioDenoisingNet) | UNet audio denoising — MSc thesis project |
 
@@ -104,6 +104,6 @@ Fastest GPU inference vs. DCCRN / MP-SEUnet / TF-Locoformer (0.0047s); SI-SDR 7.
 ---
 
 ### Achievements
-
+- **Publications** — The FlowDraft project was accepted (poster) in SSPP2026 journal
 - **Top-3** — Gazprom ML Hackathon (digital twin)
 - **YSDA** — Yandex School of Data Analysis (NLP, CV, ML)
