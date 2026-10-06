@@ -1,6 +1,6 @@
 <h1 align="center">Yaroslav Sergaev</h1>
 <p align="center">
-<strong>ML Engineer / Data Scientist</strong> · LLM &amp; VLM · AI Agents · RL · Speech · CV
+<strong>ML Engineer / Data Scientist</strong> · LLM &amp; VLM · RL · VLA · AI Agents · Speech · CV
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### About
 
-I build LLM agents and search systems in production, train speech and vision models end to end, and do research on speculative decoding and multimodal models. Interested in RL, MLLM (LLM / VLM / VLA) and AI agents.
+I build LLM agents and search systems in production, train speech and vision models end to end, and do research on speculative decoding and multimodal models. **Interested in RL, MLLM (LLM / VLM / VLA) and AI agents.**
 
 Currently at **Sber Business Soft**, previously at **MTS Exolve** and **YADRO**.  
 PhD student at **ISP RAS** (multimodal language models) · MSc in Machine Learning & Data Analysis, **HSE University** · BSc in Theoretical Physics, **UNN**
@@ -67,6 +67,7 @@ Compact speech denoising: a U-Net (1.85M parameters) on STFT spectrograms with a
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PEFT](https://img.shields.io/badge/PEFT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TRL](https://img.shields.io/badge/TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -74,7 +75,6 @@ Compact speech denoising: a U-Net (1.85M parameters) on STFT spectrograms with a
 
 **Inference & Optimization**
 
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
 ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
